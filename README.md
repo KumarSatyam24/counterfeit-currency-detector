@@ -10,7 +10,6 @@ This project aims to detect counterfeit Indian 500 and 2000 rupees notes using P
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
