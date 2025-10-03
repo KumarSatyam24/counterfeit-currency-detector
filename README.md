@@ -265,8 +265,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 - 🐛 **Report bugs**: [GitHub Issues](https://github.com/KumarSatyam24/counterfeit-currency-detector/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/KumarSatyam24/counterfeit-currency-detector/discussions)  
-- 📧 **Contact**: [Your Email] (if you want to add personal contact)
+- 📧 **Contact**: sk7474481@gmail.com
 
 ---
 **⭐ Star this repository if you found it helpful!**
