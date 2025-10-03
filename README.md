@@ -219,8 +219,6 @@ counterfeit-currency-detector/
 
 For comprehensive technical details, please refer to:
 - **[Technical Documentation](TECHNICAL_DOCUMENTATION.md)**: In-depth algorithm explanations, architecture details, and implementation specifics
-- **[API Reference](docs/API.md)**: Function documentation and integration guide (if available)
-- **[Performance Benchmarks](docs/BENCHMARKS.md)**: Detailed accuracy metrics and test results (if available)
 
 ## Contributing
 
